@@ -17,7 +17,7 @@ sidebar:
     linkedin: laurabeaufort
     github: lbeaufort
     twitter: '@laurabeaufort'
-    resume: https://bit.ly/2P9BsSX
+    
 
     languages:
       - idiom: Python
@@ -37,6 +37,8 @@ career-profile:
         
         My strong background in software engineering, data analysis, and customer service 
         would make me a great addition to any team.
+        
+        <a href="https://bit.ly/2P9BsSX">Download resume PDF</a> 
 
 education:
     - degree: Honors B.A. in Political Science, Computer Science minor
@@ -61,57 +63,54 @@ experience:
           - Lead the initiative and write code to publish FEC’s code to code.gov, participate in multi-agency code.gov working group
           - Promote open source software and the FEC’s website by participating in the code.gov working group, GSA’s government API community of practice, and presenting at conferences 
 
-
-
     - role: Senior Campaign Finance Data Analyst
       time: 2012 - 2017
       company: Federal Election Commission
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Senior Campaign Finance Data Analyst for FEC. 
+        
+          - Served as Acting Assistant Branch Chief, managing team of eight analysts
+          - Leveraged technical skills to modernize IT processes and coordinate the implementation of new and existing tools such as ServiceNow correspondence tracking platform
+          - Reviewed and analyzed data for over 10,000 house, senate, presidential, and independent Expenditure reports
+          - Provided outstanding customer service and technical assistance to over 350 assigned committees 
+          - Designed and created instructional YouTube videos and webinars for FECFile users
+          - Prepared and led branch-wide trainings on legal developments, complex reporting scenarios, and technical tools
+          - Formally mentored and informally coached employees on professional development, campaign finance review policies and procedures
+          - Conducted extensive user research for 18F, providing feedback and making recommendations on FEC website redesign and e-filing study
 
     - role: Software Engineer and Requirements Analyst
       time: 2011 - 2012
       company: NGP VAN, Inc.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Designed and programmed web-based database software using T-SQL, C# .NET, and Javascript to generate proper calculations and output state and federal campaign finance reports
 
-          - Bullet point
-          - Bullet point
+          - Provided technical advice, guidance, and recommendations to management and other technical specialists on critical issues.
+          - Documented project plans and team processes in Microsoft SharePoint wiki
+
 
     - role: Senior Technical Support Specialist; Data Services Specialist
       time: 2007 - 2010
       company: NGP VAN, Inc.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+      
+          - Used JavaScript and HTML to create backend edit request form that automatically created a support case in Salesforce 
+          - Coordinated and approved data updates made by staff using T-SQL 
+          - Designed and presented in-person and webinar trainings for candidate committees, PACs, and parties on how to prepare federal and state disclosure reports using NGP 
+          - Trained new staff on FEC disclosure rules, technical support, and customer service
+          - Coordinated QA testing and triaged critical, time-sensitive software bugs 
+          - Designed and wrote custom SQL reports for targeted fundraising and financial analysis
 
-          - Bullet point
-          - Bullet point
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+projects:
+    title: Open Source Contributions
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    assignments:
+      - title: OpenFEC
+        link: "#https://github.com/fecgov/openfec"
+        tagline: "The first RESTful API for the Federal Election Commission. We're aiming to make campaign finance more accessible for journalists, academics, developers, and other transparency seekers.."
 
 #       - title: DevStudio
 #         link: "#"
