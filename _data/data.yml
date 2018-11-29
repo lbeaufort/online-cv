@@ -62,11 +62,11 @@ experience:
         Master emerging technologies, mentor developers, and add team documentation for best practices for test-driven development. Lead code review, architecture discussions, and feature prioritization.
         
           - Serve as acting Sprint Facilitator to assist product management and junior developers with prioritizing and scheduling work
-          - Use Python, JavaScript, Flask, Django, and Elasticsearch to add features, fix bugs, and increase the stability of fec.gov
+          - Use Python, JavaScript, Flask, Django, and Elasticsearch to add features, fix bugs, and increase the stability of <a href="https://www.fec.gov/">fec.gov</a>
           - Make security improvements to internal and external open source packages 
           - Assist UX/design team with producing workflow mockups and conducting user interviews
           - Work to successfully transfer fec.gov’s ATO from 18F to the FEC
-          - Lead the initiative and write code to publish FEC’s code to code.gov, participate in multi-agency code.gov working group
+          - Lead the initiative and write code to publish FEC’s code to <a href="https://code.gov/">code.gov</a> and <a href="https://data.gov/">data.gov</a>, participate in multi-agency code.gov working group
           - Promote open source software and the FEC’s website by participating in the code.gov working group, GSA’s government API community of practice, and presenting at conferences 
 
     - role: Senior Campaign Finance Data Analyst
