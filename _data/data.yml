@@ -49,9 +49,9 @@ education:
       university: General Assembly
       time: 2017 - 2018
      
-   - degree: Architecting on AWS
-     university: Amazon Web Services custom training
-     time: 2018
+    - degree: Architecting on AWS
+      university: Amazon Web Services custom training
+      time: 2018
 
 experience:
     - role: Tech Lead 
