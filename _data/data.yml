@@ -14,9 +14,10 @@ sidebar:
     # Sidebar links
     email: laurabeaufort@gmail.com
     website: lbeaufort.github.io/online-cv/ #do not add http://
-    linkedin: www.linkedin.com/in/laurabeaufort
-    github: https://github.com/lbeaufort
+    linkedin: laurabeaufort
+    github: lbeaufort
     twitter: '@laurabeaufort'
+    resume: https://bit.ly/2P9BsSX
 
     languages:
       - English
