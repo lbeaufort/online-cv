@@ -38,7 +38,7 @@ career-profile:
         My strong background in software engineering, data analysis, and customer service 
         would make me a great addition to any team.
         
-        <a href="https://bit.ly/2P9BsSX">Download resume PDF</a> 
+        <a href="https://github.com/lbeaufort/resume/raw/master/Laura%20Beaufort%20-%20Resume.pdf">Download resume PDF</a> 
 
 education:
     - degree: Honors B.A. in Political Science, Computer Science minor
@@ -50,11 +50,10 @@ experience:
       time: 2017 - Present
       company: Federal Election Commission
       details: |
-
-          - Contribute high-quality, well-tested, maintainable, well-documented code to fec.gov, a fully open source Django/Flask application
+        Contribute high-quality, well-tested, maintainable, well-documented code to fec.gov, a fully open source Django/Flask application. 
+        Master emerging technologies, mentor developers, and add team documentation for best practices for test-driven development. Lead code review, architecture discussions, and feature prioritization
+        
           - Serve as acting Sprint Facilitator to assist product management and junior developers with prioritizing and scheduling work
-          - Master emerging technologies, mentor developers, and add team documentation for best practices for test-driven development
-          - Lead code review, architecture discussions, and feature prioritization
           - Explain technical issues and concepts clearly to both technical and non-technical audiences
           - Use Python, JavaScript, Flask, Django, and Elasticsearch to add features, fix bugs, and increase the stability of fec.gov
           - Make security improvements to internal and external open source packages 
