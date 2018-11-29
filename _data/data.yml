@@ -20,8 +20,11 @@ sidebar:
     resume: https://bit.ly/2P9BsSX
 
     languages:
-      - English
-      - Spanish
+      - idiom: English
+        level: Native
+
+      - idiom: Spanish
+        level: Basic
 
 career-profile:
     title: Career Profile
