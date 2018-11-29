@@ -20,11 +20,12 @@ sidebar:
     resume: https://bit.ly/2P9BsSX
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Python
+        level: Advanced
 
-      - idiom: Spanish
-        level: Basic
+      - idiom: JavaScript
+        level: Intermediate
+        
 
 career-profile:
     title: Career Profile
