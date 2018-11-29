@@ -38,12 +38,16 @@ career-profile:
         My strong background in software engineering, data analysis, and customer service 
         would make me a great addition to any team.
         
-        <a href="https://github.com/lbeaufort/resume/raw/master/Laura%20Beaufort%20-%20Resume.pdf">Download resume PDF</a> 
+        <a href="https://github.com/lbeaufort/resume/raw/master/Laura%20Beaufort%20-%20Resume.pdf">Download resume as PDF</a> 
 
 education:
     - degree: Honors B.A. in Political Science, Computer Science minor
       university: University of Delaware
       time: 2003 - 2007
+   
+    - degree: JavaScript Development
+      university: General Assembly
+      time: 2018
 
 experience:
     - role: Tech Lead 
@@ -108,12 +112,12 @@ projects:
 
     assignments:
       - title: OpenFEC
-        link: "#https://github.com/fecgov/openfec"
+        link: "https://github.com/fecgov/openfec"
         tagline: "The first RESTful API for the Federal Election Commission. We're aiming to make campaign finance more accessible for journalists, academics, developers, and other transparency seekers.."
 
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: fec-cms
+         link: "https://github.com/fecgov/fec-cms"
+         tagline: "The data application and content management system for the Federal Election Commission."
 
 #       - title: Tempo
 #         link: "#"
