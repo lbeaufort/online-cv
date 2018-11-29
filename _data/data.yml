@@ -47,18 +47,20 @@ experiences:
       time: 2017 - Present
       company: Federal Election Commission
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
+          - Contribute high-quality, well-tested, maintainable, well-documented code to fec.gov, a fully open source Django/Flask application
+          - Serve as acting Sprint Facilitator to assist product management and junior developers with prioritizing and scheduling work
+          - Master emerging technologies, mentor developers, and add team documentation for best practices for test-driven development
+          - Lead code review, architecture discussions, and feature prioritization
+          - Explain technical issues and concepts clearly to both technical and non-technical audiences
+          - Use Python, JavaScript, Flask, Django, and Elasticsearch to add features, fix bugs, and increase the stability of fec.gov
+          - Make security improvements to internal and external open source packages 
+          - Assist UX/design team with producing workflow mockups and conducting user interviews
+          - Work to successfully transfer fec.gov’s ATO from 18F to the FEC
+          - Lead the initiative and write code to publish FEC’s code to code.gov, participate in multi-agency code.gov working group
+          - Promote open source software and the FEC’s website by participating in the code.gov working group, GSA’s government API community of practice, and presenting at conferences 
+
+
 
     - role: Senior Campaign Finance Data Analyst
       time: 2012 - 2017
