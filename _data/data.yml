@@ -14,13 +14,17 @@ sidebar:
     # Sidebar links
     email: laurabeaufort@gmail.com
     website: lbeaufort.github.io/online-cv/ #do not add http://
-    linkedin: www.linkedin.com/in/laurabeaufort
-    github: https://github.com/lbeaufort
+    linkedin: laurabeaufort
+    github: lbeaufort
     twitter: '@laurabeaufort'
+    resume: https://bit.ly/2P9BsSX
 
     languages:
-      - English
-      - Spanish
+      - idiom: English
+        level: Native
+
+      - idiom: Spanish
+        level: Basic
 
 career-profile:
     title: Career Profile
@@ -34,51 +38,33 @@ career-profile:
         would make me a great addition to any team.
 
 education:
-    - degree: Honors B.A. in Political Science, History
-      minor: Computer Science
+    - degree: Honors B.A. in Political Science, Computer Science minor
       university: University of Delaware
       time: 2003 - 2007
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-experience:
+experiences:
     - role: Tech Lead 
       time: 2017 - Present
-      organization: Federal Election Commission
+      company: Federal Election Commission
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
+          - Contribute high-quality, well-tested, maintainable, well-documented code to fec.gov, a fully open source Django/Flask application
+          - Serve as acting Sprint Facilitator to assist product management and junior developers with prioritizing and scheduling work
+          - Master emerging technologies, mentor developers, and add team documentation for best practices for test-driven development
+          - Lead code review, architecture discussions, and feature prioritization
+          - Explain technical issues and concepts clearly to both technical and non-technical audiences
+          - Use Python, JavaScript, Flask, Django, and Elasticsearch to add features, fix bugs, and increase the stability of fec.gov
+          - Make security improvements to internal and external open source packages 
+          - Assist UX/design team with producing workflow mockups and conducting user interviews
+          - Work to successfully transfer fec.gov’s ATO from 18F to the FEC
+          - Lead the initiative and write code to publish FEC’s code to code.gov, participate in multi-agency code.gov working group
+          - Promote open source software and the FEC’s website by participating in the code.gov working group, GSA’s government API community of practice, and presenting at conferences 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Senior Campaign Finance Data Analyst
+      time: 2012 - 2017
+      company: Federal Election Commission
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -89,55 +75,77 @@ experience:
           - Bullet point
           - Bullet point
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    - role: Software Engineer and Requirements Analyst
+      time: 2011 - 2012
+      company: NGP VAN, Inc.
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+          - Bullet point
+          - Bullet point
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - role: Senior Technical Support Specialist; Data Services Specialist
+      time: 2007 - 2010
+      company: NGP VAN, Inc.
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+          - Bullet point
+          - Bullet point
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
+
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python, Flask & Django
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: SQL & SQLAlchemy ORM
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Elasticsearch
         level: 85%
+        
+      - name: Javascript & jQuery
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
