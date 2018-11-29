@@ -135,7 +135,7 @@ skills:
       - name: Python, Flask & Django
         level: 98%
 
-      - name: SQL & SQLAlchemy ORM
+      - name: SQL & SQLAlchemy
         level: 95%
 
       - name: Elasticsearch
