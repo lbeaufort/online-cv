@@ -138,13 +138,13 @@ skills:
 
     toolset:
       - name: Python 
-        level: 98%
+        level: 90%
       
       - name: Flask & Django
-        level: 98%
+        level: 85%
 
       - name: SQL & SQLAlchemy
-        level: 95%
+        level: 85%
 
       - name: Elasticsearch
         level: 85%
