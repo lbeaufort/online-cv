@@ -58,7 +58,7 @@ experience:
       time: 2017 - Present
       company: Federal Election Commission
       details: |
-        Contribute high-quality, well-tested, maintainable, well-documented code to fec.gov, a fully open source Django/Flask application. 
+        Contribute high-quality, well-tested, maintainable, well-documented code to <a href="https://www.fec.gov/">fec.gov</a>, a fully open source Django/Flask application. 
         Master emerging technologies, mentor developers, and add team documentation for best practices for test-driven development. Lead code review, architecture discussions, and feature prioritization.
         
           - Serve as acting Sprint Facilitator to assist product management and junior developers with prioritizing and scheduling work
