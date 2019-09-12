@@ -137,10 +137,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
-        level: 90%
-      
-      - name: Flask & Django
+      - name: Python, Flask & Django
+        level: 95%
+        
+      - name: CI/CD, Cloud Foundry
         level: 85%
 
       - name: SQL & SQLAlchemy
@@ -150,9 +150,7 @@ skills:
         level: 85%
         
       - name: Javascript & jQuery
-        level: 75%
-        
-      - name: HTML & CSS
         level: 65%
+        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
