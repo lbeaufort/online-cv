@@ -81,27 +81,6 @@ experience:
           - Prepared and led branch-wide trainings on legal developments, complex reporting scenarios, and technical tools
           - Conducted extensive user research for 18F, providing feedback and making recommendations on FEC website redesign and e-filing study
 
-    - role: Software Engineer and Requirements Analyst
-      time: 2011 - 2012
-      company: NGP VAN, Inc.
-      details: |
-        Designed and programmed web-based database software using T-SQL, C# .NET, and Javascript to generate proper calculations and output state and federal campaign finance reports. Diagnosed and solved issues with NGP VAN's compliance software.
-
-          - Provided technical advice, guidance, and recommendations to management and other technical specialists on critical issues.
-          - Documented project plans and team processes in Microsoft SharePoint wiki
-          - Wrote custom SQL reports and designed user interfaces to meet complex state campaign finance regulations
-
-    - role: Senior Technical Support Specialist; Data Services Specialist
-      time: 2007 - 2010
-      company: NGP VAN, Inc.
-      details: |
-        Trained new staff on FEC disclosure rules, technical support, and customer service. Converted and migrated custom databases into SQL Server.
-      
-          - Used JavaScript and HTML to create backend edit request form that automatically created a support case in Salesforce 
-          - Coordinated and approved data updates made by staff using T-SQL 
-          - Designed and presented in-person and webinar trainings for candidate committees, PACs, and parties on how to prepare federal and state disclosure reports using NGP 
-          - Coordinated QA testing and triaged critical, time-sensitive software bugs 
-          - Designed and wrote custom SQL reports for targeted fundraising and financial analysis
 
 # projects:
 #     title: Open Source Contributions
